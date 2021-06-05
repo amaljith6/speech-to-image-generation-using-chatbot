@@ -1,1 +1,1 @@
-# speech-to-image-generator-using-chatbot
+# speech-to-image-generation-using-chatbot
